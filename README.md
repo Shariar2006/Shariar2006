@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello, I'm Shariar Nafis! 👋
 
-<!--
-**Shariar2006/Shariar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 💻 Tools and Technologies 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,react,mongodb,nodejs,tailwind,vite,vscode,)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
