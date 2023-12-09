@@ -8,7 +8,14 @@
 
 ## 💻 Tools and Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,react,mongodb,nodejs,tailwind,vite,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,tailwind,vite,vscode,)](https://skillicons.dev)
+
+
+## :chart_with_upwards_trend: Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shariar2006)](https://git.io/streak-stats)
+
 
 Here are some ideas to get you started:
 
