@@ -28,10 +28,15 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://cdn.pixabay.com/photo/2021/05/24/18/12/facebook-6280066_1280.png">]
-(https://www.facebook.com/profile.php?id=100093272871863)
-[<img height="75" src="https://www.pngitem.com/pimgs/m/1-13789_instagram-logo-png-paint-brush-colour-logo-instagram.png">]
-(https://www.instagram.com/shariarnafis97/)
+<p>
+<a href="https://www.facebook.com/profile.php?id=100093272871863">
+<img width="20%" src="https://cdn.pixabay.com/photo/2021/05/24/18/12/facebook-6280066_1280.png" />
+</a>
+
+<a href="https://www.instagram.com/shariarnafis97/">
+<img width="20%" src="https://www.pngitem.com/pimgs/m/1-13789_instagram-logo-png-paint-brush-colour-logo-instagram.png" />
+</a></p>
+
 
 <br />
 
