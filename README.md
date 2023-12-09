@@ -8,13 +8,33 @@
 
 ## 💻 Tools and Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,tailwind,vite,vscode,)](https://skillicons.dev)
+<p align="center">
+  <img width="60%" src="https://skillicons.dev/icons?i=html,css,js,firebase,github,react" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://skillicons.dev/icons?i=mongodb,nodejs,tailwind,vite,vscode," />
+</p>
+
 
 
 ## :chart_with_upwards_trend: Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shariar2006)](https://git.io/streak-stats)
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Shariar2006" />
+</p>
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://cdn.pixabay.com/photo/2021/05/24/18/12/facebook-6280066_1280.png">]
+(https://www.facebook.com/profile.php?id=100093272871863)
+[<img height="75" src="https://www.pngitem.com/pimgs/m/1-13789_instagram-logo-png-paint-brush-colour-logo-instagram.png">]
+(https://www.instagram.com/shariarnafis97/)
+
+<br />
+
 
 
 Here are some ideas to get you started:
