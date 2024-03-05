@@ -30,11 +30,11 @@
 
 
 <a href="https://www.facebook.com/profile.php?id=100093272871863">
-<img width="20%" src="https://cdn.pixabay.com/photo/2021/05/24/18/12/facebook-6280066_1280.png" />
+<img width="20%" src="https://i.ibb.co/BnwG0hC/Screenshot-2024-03-05-185044-1.png" />
 </a>
 
 <a href="https://www.instagram.com/shariarnafis97/">
-<img width="20%" src="https://www.pngitem.com/pimgs/m/1-13789_instagram-logo-png-paint-brush-colour-logo-instagram.png" />
+<img width="20%" src="https://i.ibb.co/N68tWh1/instagram.png" />
 </a>
 
 
