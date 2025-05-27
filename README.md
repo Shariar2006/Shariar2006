@@ -29,7 +29,7 @@
 <br />
 
 
-<a href="https://www.facebook.com/profile.php?id=100093272871863">
+<a href="https://www.facebook.com/shariaralamemon2007/">
 <img width="20%" src="https://i.ibb.co/BnwG0hC/Screenshot-2024-03-05-185044-1.png" />
 </a>
 
@@ -37,6 +37,9 @@
 <img width="20%" src="https://i.ibb.co/N68tWh1/instagram.png" />
 </a>
 
+<a href="https://www.linkedin.com/in/shariar-alam-emon/">
+<img width="20%" src="https://i.ibb.co/dwHbmvCp/linkedin-removebg-preview.png" />
+</a>
 
 <br />
 
