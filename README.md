@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://skillicons.dev/icons?i=mongodb,nodejs,tailwind,vite,vscode," />
+  <img width="60%" src="https://skillicons.dev/icons?i=mongodb,nodejs,tailwind,vite,vscode,ts" />
 </p>
 
 
