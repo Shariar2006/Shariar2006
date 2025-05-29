@@ -30,15 +30,15 @@
 
 
 <a href="https://www.facebook.com/shariaralamemon2007/">
-<img width="20%" src="https://i.ibb.co/BnwG0hC/Screenshot-2024-03-05-185044-1.png" />
+<img width="16%" src="https://i.ibb.co/HfJBPLRJ/fb-imge.png" />
 </a>
 
 <a href="https://www.instagram.com/shariarnafis97/">
-<img width="20%" src="https://i.ibb.co/N68tWh1/instagram.png" />
+<img width="29%" src="https://i.ibb.co/JNb2RLG/Instagram-icon-Logo-2016-present.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/shariar-alam-emon/">
-<img width="20%" src="https://i.ibb.co/dwHbmvCp/linkedin-removebg-preview.png" />
+<img width="18%" src="https://i.ibb.co/dwHbmvCp/linkedin-removebg-preview.png" />
 </a>
 
 <br />
